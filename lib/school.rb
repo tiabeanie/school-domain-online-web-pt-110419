@@ -1,3 +1,2 @@
 class School
-  school = School.new("Bayside High School")
-end 
+  attr_accessor :s
